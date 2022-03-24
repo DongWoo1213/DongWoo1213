@@ -1,4 +1,4 @@
-### Hello we are <조 이름> 👋
+### Hello we are <버스탔조> 👋
 
 ## MDP
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
