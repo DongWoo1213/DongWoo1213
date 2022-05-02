@@ -3,7 +3,7 @@
 ## MDP
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 # 
-https://github-readme-stats.vercel.app/api?username=DongWoo1213&show_icons=true&theme=radical
+github-readme-stats.vercel.app/api?username=DongWoo1213&show_icons=true&theme=radical
 
 #### 조원:김도원,김효진,박동우,박서진,방요한
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
